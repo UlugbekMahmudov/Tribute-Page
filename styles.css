@@ -1,0 +1,74 @@
+body {
+  display: flex;
+  justify-content: center;
+
+}
+main {
+  background-color: #eeeeee;
+  border-radius: 5px;
+  text-align: center;
+  font-family: Roboto;
+
+}
+
+h1 {
+  padding: 40px 0 10px 0;
+
+}
+#img-div {
+  background-color: white;
+  width: 90%;
+  max-width: 100%;
+  margin: 0 auto;
+  border-radius: 10px;
+
+
+}
+img {
+  display: block;
+  width: 80%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#img-caption {
+  padding-bottom: 25px;
+}
+
+#tribute-info {
+  padding-top: 25px;
+}
+
+.timeline {
+  width: 50%;
+  margin: 0 auto;
+}
+ul {
+  list-style-position: inside;
+  text-align: left;
+}
+
+li {
+  text-indent: -1.4em;
+  padding-left: 1.2em;
+  padding-bottom: 20px;
+}
+.bold {
+  font-weight: bold;
+  padding: 20px auto;
+}
+
+.italic1, .italic2 {
+  font-style: italic;
+}
+
+.italic1, .italic2 { 
+  padding-left: 2.5em;
+  text-align: left;
+}
+
+#footer {
+  padding-bottom: 1em;
+}
